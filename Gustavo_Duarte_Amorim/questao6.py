@@ -1,4 +1,3 @@
-### Gustavo Duarte Amorim - Matrícula: 202504003 - E-mail: gustavoduarte@discente.ufg.br
 ### Questão 6 - Dashboard em tempo real das 100 principais criptomoedas do mundo
 
 ### Importando as bibliotecas necessárias como pycoingecko para acessar a API da CoinGecko, pandas para manipulação de dados e streamlit para criar o dashboard
