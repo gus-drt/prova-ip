@@ -1,5 +1,4 @@
-# Gustavo Duarte Amorim - Matrícula: 202504003 - E-mail: gustavoduarte@discente.ufg.br
-# Questão 1 - Programa de cálculo de consumo de energia elétrica (EletroPy)
+# Questão 1 - Programa de cálculo de consumo de energia elétrica (EletroPy)
 
 ## Realizando as importações necessárias
 import funcoes as fun
