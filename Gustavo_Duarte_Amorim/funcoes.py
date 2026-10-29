@@ -1,4 +1,3 @@
-### Gustavo Duarte Amorim - Matrícula: 202504003 - E-mail: gustavoduarte@discente.ufg.br
 ### Função que permite ao usuário continuar ou encerrar o programa, retornando uma função específica até o usuário decidir sair
 __all__ = ['continuar']
 
