@@ -1,4 +1,3 @@
-# Gustavo Duarte Amorim - Matrícula: 202504003 - E-mail: gustavoduarte@discente.ufg.br
 # Questão 3 - Análise de dados climáticos (ClimaPy)
 
 import numpy as np
