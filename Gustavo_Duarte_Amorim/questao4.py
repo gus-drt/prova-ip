@@ -1,4 +1,3 @@
-# Gustavo Duarte Amorim - Matrícula: 202504003 - E-mail: gustavoduarte@discente.ufg.br
 # Questão 4 - Jogo Tetris com pygame
 
 # Importando as bibliotecas necessárias
